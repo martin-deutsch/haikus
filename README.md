@@ -1,2 +1,2 @@
 # haikus
-CS333 Ruby Haikus
+Runnable Ruby programs that are also haikus!
